@@ -1,0 +1,122 @@
+docs/learning/phase3/03-state.md
+  s_5f82d4c9d0f3fb::t_f70b5942630a8f 328-333
+  s_5f82d4c9d0f3fb::t_4d25cc712ec33c 1-327,334-359
+common/cache/redis.go
+  s_027169c7a2dbf7::t_cd4c259fe75cf6 20
+docs/learning/phase2/05-prpc-framework.md
+  s_5f82d4c9d0f3fb::t_38838898e7fb25 1-236,243-244
+  s_5f82d4c9d0f3fb::t_14f7cbb90f85c6 237-242,245-248
+common/config/config.go
+  s_027169c7a2dbf7::t_625a8a8bc36831 35-38
+docs/learning/phase3/01-ipconf.md
+  s_5f82d4c9d0f3fb::t_91942a4f5b5899 343-348,351-354
+  s_5f82d4c9d0f3fb::t_3613d1e447a2d2 1-342,349-350
+docs/learning/phase1/01-goroutine-channel.md
+  s_5f82d4c9d0f3fb::t_ceff0d05683c3d 1-165,212-225,237-245
+  s_5f82d4c9d0f3fb::t_a585bfe5263381 226-236
+  s_5f82d4c9d0f3fb::t_39f675721da72f 166-211
+docs/learning/phase5/01-full-link.md
+  s_5f82d4c9d0f3fb::t_d7dc1c145c1b9f 295
+  s_5f82d4c9d0f3fb::t_792cf5047534ab 277-282,294,296-299,301-304,306-309
+  s_5f82d4c9d0f3fb::t_e8c33c1b3cd9c3 1-276,283-293,300,305
+.gitignore
+  h_d9def04a1441c6 5-6
+docs/learning/phase2/02-config-discovery.md
+  s_5f82d4c9d0f3fb::t_701176f0077030 55,62
+  s_5f82d4c9d0f3fb::t_f14e6095e64693 225-227,229-231,233-236
+  s_5f82d4c9d0f3fb::t_3fc4a0d47a4c4c 1-54,56-61,63-224,228,232
+docs/learning/phase3/02-gateway.md
+  s_5f82d4c9d0f3fb::t_4e0da751a2102d 1-379,386-394
+  s_5f82d4c9d0f3fb::t_2752f341fb90a5 380-385
+  s_5f82d4c9d0f3fb::t_bcdee197a6524d 395-403
+docs/learning/README.md
+  s_5f82d4c9d0f3fb::t_977b229cad4697 87-111,123-126
+  s_5f82d4c9d0f3fb::t_906e2035615af3 1-4,9-19,21,24-25,29-30,33,35-45,47-86,112-122,127
+  s_5f82d4c9d0f3fb::t_24dcda247e65db 5-8
+  s_5f82d4c9d0f3fb::t_5591cb7817a1ea 20,22-23,26-28,31-32,34
+  s_5f82d4c9d0f3fb::t_15cb164e7996de 46
+docs/learning/phase1/02-sync-map.md
+  s_5f82d4c9d0f3fb::t_a139725f0189a7 21,26
+  s_5f82d4c9d0f3fb::t_8c22ff74743b1c 98
+  s_5f82d4c9d0f3fb::t_54511ba688f40f 175-180,183-185
+  s_5f82d4c9d0f3fb::t_b6fddfe9293b46 78,81
+  s_5f82d4c9d0f3fb::t_9b97b0a3aa3fb5 1-20,22-25,27-69,71-77,79-80,82-97,99-174,181-182
+  s_5f82d4c9d0f3fb::t_99cb9020dc7968 70
+docs/learning/phase1/06-go-traps.md
+  s_5f82d4c9d0f3fb::t_a2747bad21d234 227-232
+  s_5f82d4c9d0f3fb::t_34678ae990e04f 1-220,233-235
+  s_5f82d4c9d0f3fb::t_cbf29bd17dd670 221-226
+plato-orb.yaml
+  s_027169c7a2dbf7::t_8cffeb0be91531 1-46
+  h_d9def04a1441c6 47
+docs/learning/phase2/01-tcp-protocol.md
+  s_5f82d4c9d0f3fb::t_c20c807bc217a2 1-180
+  s_5f82d4c9d0f3fb::t_46e412b5400472 181-192
+docs/learning/phase4/02-sdk-client.md
+  s_5f82d4c9d0f3fb::t_b22d7315ef3ae6 302-307,310-313
+  s_5f82d4c9d0f3fb::t_1af27f54dead21 1-301,308-309
+docs/learning/phase2/03-redis-lua.md
+  s_5f82d4c9d0f3fb::t_f2800941adedb7 65,68-73,76
+  s_5f82d4c9d0f3fb::t_bef90996503627 1-64,66-67,74-75,77-201,205,209
+  s_5f82d4c9d0f3fb::t_4923be1e4fbe21 202-204,206-208,210-213
+docs/learning/phase1/05-context.md
+  s_5f82d4c9d0f3fb::t_b7992029784fac 1-167,171,175
+  s_5f82d4c9d0f3fb::t_1db4fe7cae5686 168-170,172-174,176-178
+docs/learning/phase4/01-user-domain.md
+  s_5f82d4c9d0f3fb::t_4d5bf92cf28af5 278-292
+  s_5f82d4c9d0f3fb::t_128779d35e4b40 1-277
+CLAUDE.md
+  s_5f82d4c9d0f3fb::t_176629e4c15b1b 327
+  s_5f82d4c9d0f3fb::t_bfb52c1588dd26 1-6,8-11,20-22,368
+  s_5f82d4c9d0f3fb::t_f5c9869522eb3c 7,12-19,23-326,328-367,369-447
+docs/learning/00-environment.md
+  s_5f82d4c9d0f3fb::t_2f6f3001315eb8 1-11,13-125,147-236
+  s_027169c7a2dbf7::t_aa55710c82e345 12
+  s_027169c7a2dbf7::t_453c53b350538e 126-146
+docs/learning/phase1/00-go-project-basics.md
+  s_5f82d4c9d0f3fb::t_65f11654c1bca1 120-125
+  s_5f82d4c9d0f3fb::t_035da71e71168d 143-149
+  s_5f82d4c9d0f3fb::t_7fae7d10e016a4 1-119,126-142
+docs/learning/phase1/04-go-idioms.md
+  s_5f82d4c9d0f3fb::t_8cfd406fc38d41 73,75-76,81,83-96,98-119,121-136,138-152,154-161
+  s_5f82d4c9d0f3fb::t_47ba0f129823ae 1-4,9-72,74,77-80,82,97,120,137,153,162-287,296-311
+  s_5f82d4c9d0f3fb::t_aace28b24db0bf 288-295
+  s_5f82d4c9d0f3fb::t_dd8b4872754333 5-8
+  s_5f82d4c9d0f3fb::t_741231b41d4bb8 312-351
+docs/learning/phase1/03-atomic-pointer.md
+  s_5f82d4c9d0f3fb::t_25e54d78ab3055 19
+  s_5f82d4c9d0f3fb::t_b89341ffa11a67 167-172,175-177
+  s_5f82d4c9d0f3fb::t_3e312dc1e58419 1-18,20-166,173-174
+docs/learning/phase2/04-timing-wheel.md
+  s_5f82d4c9d0f3fb::t_084c0bd7d6ca64 249-260
+  s_5f82d4c9d0f3fb::t_8357182d003293 1-248
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "9da42015c3f7ff6cc9168723c0d9d0c83ff84ba0",
+  "prompts": {},
+  "humans": {
+    "h_d9def04a1441c6": {
+      "author": "lei <17674030991@163.com>"
+    }
+  },
+  "sessions": {
+    "s_027169c7a2dbf7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4b197a6b-bc53-4eae-9c7b-549640ffcb19",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "lei <17674030991@163.com>"
+    },
+    "s_5f82d4c9d0f3fb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e796a835-d789-48e6-bfc6-3221cff8c811",
+        "model": "deepseek-v4-pro"
+      },
+      "human_author": "lei <17674030991@163.com>"
+    }
+  }
+}
