@@ -32,6 +32,10 @@ func GetCacheRedisEndpointList() []string {
 	return viper.GetStringSlice("cache.redis.endpoints")
 }
 
+func GetCacheRedisPassword() string {
+	return viper.GetString("cache.redis.password")
+}
+
 // 判断是不是debug环境
 func IsDebug() bool {
 	env := viper.GetString("global.env")

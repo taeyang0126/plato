@@ -17,7 +17,7 @@ func InitRedis(ctx context.Context) {
 		return
 	}
 	endpoints := config.GetCacheRedisEndpointList()
-	opt := &redis.Options{Addr: endpoints[0], PoolSize: 10000}
+	opt := &redis.Options{Addr: endpoints[0], PoolSize: 10000, Password: config.GetCacheRedisPassword()}
 	rdb = redis.NewClient(opt)
 	if _, err := rdb.Ping(ctx).Result(); err != nil {
 		panic(err)

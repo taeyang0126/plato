@@ -2,4 +2,5 @@
 .idea
 plato
 chat.log
-vendor/
+
+.token-pilot
